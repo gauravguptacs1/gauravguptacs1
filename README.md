@@ -1,2 +1,1 @@
-I=str(input("my name is gaurav"))
-print(I)
+hi I am Gaurav Gupta
